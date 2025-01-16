@@ -1,6 +1,6 @@
 Youtube 
 
->>first video ad will not block.
+>>first video-ad will not block.
 >>
 >>Control video speed using keyboard two key  , and .
 >>
