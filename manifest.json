@@ -11,7 +11,7 @@
     },
     {
       "matches": ["*://*.youtube.com/*"],
-      "js": ["youtube_content.js","youtube_ads.js","jquery-3.5.1.min.js"]    //yt Ads
+      "js": ["youtube_content.js"]
     }
   ],
   
